@@ -1,0 +1,13 @@
+## 2025-05-14 00:18:04.311085
+input gct:	/mnt/c/Users/redas/Desktop/jupyter_directory/salomon_lab_folder/rdn_soq_project/proteomics/figs/pMHC/time_sea/qvalue.gct
+gene.set.database:	/mnt/c/Users/redas/Desktop/jupyter_directory/salomon_lab_folder/rdn_soq_project/proteomics/database/ptm.sig.db.all.flanking.human.v2.0.0.gmt
+sample.norm.type:	none
+weight:	1
+statistic:	area.under.RES
+output.score.type	NES
+nperm:	10000
+global.fdr:	TRUE
+min.overlap:	3
+correl.type:	z.score
+export.signat.gct:	FALSE
+run.parallel:	TRUE
